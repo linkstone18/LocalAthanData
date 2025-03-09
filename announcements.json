@@ -3,6 +3,7 @@
         "id": "1",
         "title": "Taraweeh Prayer Times",
         "message": "Al Medinah Mosque: 1st - Immediately after Isha | 2nd - 9:30pm"
+        "message": "The masjid will pray 10 rakats followed by 3 rakats for Shafa and witr"
     },
     {
         "id": "2",
@@ -11,7 +12,7 @@
     },
     {
         "id": "3",
-        "title": "Eid Salah Timings Init",
+        "title": "Eid Salah Timings",
         "message": "Eid prayer at Al Medinah Mosque: 7:30 AM & 9:00 AM"
     }
 ]
