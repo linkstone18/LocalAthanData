@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "title": "Taraweeh Prayer Times",
+        "message": "Al Medinah Mosque: 1st - After Isha, 2nd - 9:30pm"
+    },
+    {
+        "id": "2",
+        "title": "Al Quds Mosque",
+        "message": "Immediately after Isha"
+    }
+]
